@@ -33,9 +33,64 @@ Un capacitor o un condensador es un componente pasivo capaz de almacenar energí
 
 Consta de tres partes esenciales:
 
-**-Estructura o carcasa de plástico:** Cubre las partes internas del capacitor.
-•	Dialéctico o aislante: Evita el contacto entre las dos placas.
-•	Placas metálicas: Almacenan las cargas eléctricas.
+**• Estructura o carcasa de plástico:** Cubre las partes internas del capacitor.
+
+**•	Dialéctico o aislante:** Evita el contacto entre las dos placas.
+
+**•	Placas metálicas:** Almacenan las cargas eléctricas.
+
+**FUNCIONAMIENTO**
+
+Inicialmente cada una de las placas internas tiene el mismo numero de electrones, y cuando conectamos una fuente de voltaje una de las placas pierde electrones y la otra placa los gana. Cuando el capacitor alcanza el mismo voltaje que la fuente de alimentación el movimiento de electrones se detiene.
+
+**TIPOS**
+
+* Electrolíticos
+
+* Cerámicos
+
+* De película
+
+* De mica
+
+* De doble capa eléctrica o super capacitores
+
+* Variables
+
+Para la práctica del presente informe hemos utilizado capacitores cerámicos, los cuales no tiene polaridad y tienen un código impreso en una de sus caras el cual siempre viene codificado en pico faradios. Sin embargo, los capacitores son bastante sensibles a los cambios de voltaje y temperatura.
+
+**CAPACITORES EN SERIE Y PARALELO**
+
+Los capacitores se pueden agrupar en serie o en paralelo para obtener un valor de capacitor equivalente o capacitor total. Estos valores se pueden calcular con las siguientes fórmulas:
+
+### **INDUCTOR**
+
+Un inductor es un componente pasivo hecho de un alambre aislado que almacena energía en forma de campo magnético, debido al fenómeno de la autoinducción, el sentido del flujo del campo magnético se lo puede establecer con la ley de la mano derecha. El inductor se encuentran en valores de Henrios (H).
+
+**PARTES**
+
+El inductor consta básicamente de las siguientes partes: 
+
+**FUNCIONAMIENTO**
+
+Un inductor está constituido por una bobina de material conductor,  normalmente alambre o hilo de cobre esmaltado, el inductor almacena energía cuando aumenta la intensidad de corriente, devolviéndola cuando ésta disminuye. 
+
+**TIPOS**
+
+* Bobinas con núcleos de aire
+
+* Bobinas de núcleo de hierro
+
+* Bobinas con núcleo de ferrita
+
+Para la práctica del presente informe hemos utilizado bobinas o inductores con núcleos de aire, los cuales tienen una baja inductancia y generalmente trabajan con señales eléctricas de alta frecuencia.
+
+**INDUCTORES EN SERIE Y PARALELO**
+Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de inductor equivalente o inductor total. Estos valores se pueden calcular con las siguientes fórmulas:
+
+
+
+
 
 
 
