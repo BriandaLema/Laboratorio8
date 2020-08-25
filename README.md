@@ -75,124 +75,20 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 
 Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
 
-**ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
+**PREGUNTAS**
+**1.- Justifique los errores cometidos en las mediciones.
 
-VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
+**2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-* **VTH (V)**
+**3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 5.06 V | 5.0556 V |
+**4.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-* **RTH Ω**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 299 Ω | 298.86 Ω |
-
-COMPROBACIÓN DEL TEOREMA DE THÉVENIN 
-
- * **CIRCUITO ORIGINAL**
-
-* VOLTAJE (V)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 4.22 V | 3.9 V |
-
-* CORRIENTE (mA)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  4.22 mA | 3.9 mA |
-
-* **CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-* VOLTAJE (V)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 V | 3.89 V |
-
-* CORRIENTE (mA)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 mA| 3.89 mA  |
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
-
-Voltaje calculado= 5.06 V
-
-Voltaje medido= 5.0556 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((5.06 V - 5.0556 V)/ 5.06 V )* 100
-
-%error= 0.087 % 
+**5.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 
-- **CÁLCULO DEL ERROR DE LA RESISTENCIA DE THÉVENIN**
+**CÁLCULO DEL ERROR**
 
-Resistencia calculada= 299 Ω 
-
-Resistencia medida= 298.86 Ω 
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(( 299 Ω - 298.86 Ω )/ 299 Ω )* 100
-
-%error= 0.047 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Voltaje calculado= 4.22 V
-
-Voltaje medido= 3.9 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 V - 3.9 V)/ 4.22 V)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Corriente calculado= 4.22 mA
-
-Corriente medido= 3.9 mA
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 mA - 3.9 mA)/ 4.22 mA)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 V
-
-Voltaje medido= 3.89 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(|(3.84 V - 3.89 V)|/ 3.84 V )* 100
-
-%error= 1.30 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 mA
-
-Voltaje medido= 3.89 mA
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(|(3.84 mA - 3.89 mA)|/ 3.84 mA )* 100
-
-%error= 1.30 % 
 
 
 ## 9.APORTACIONES
