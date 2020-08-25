@@ -127,7 +127,7 @@ https://trello.com/b/mNVZSk1J/laboratorio-8
 
 
 ## 14.- ANEXOS
-https://github.com/BriandaLema/Laboratorio5/blob/master/Anexos/ANEXOS%20LABORATORIO%205.pdf
+https://github.com/BriandaLema/Laboratorio8/blob/master/Anexos/ANEXOS_8.pdf
 
 
 
