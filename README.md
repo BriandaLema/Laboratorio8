@@ -26,7 +26,17 @@ Este proyecto consistió en la implementación de un circuito eléctrico, en un 
 ## 3. MARCO TEÓRICO 
 
 ### **CAPACITOR** 
+
 Un capacitor o un condensador es un componente pasivo capaz de almacenar energía a través de campos eléctricos Este se clasifica dentro de los componentes pasivos ya que no corta el flujo eléctrico. El capacitor se encuentra en unidad de Faradios (F).
+
+**PARTES**
+
+Consta de tres partes esenciales:
+
+**-Estructura o carcasa de plástico:** Cubre las partes internas del capacitor.
+•	Dialéctico o aislante: Evita el contacto entre las dos placas.
+•	Placas metálicas: Almacenan las cargas eléctricas.
+
 
 
 
