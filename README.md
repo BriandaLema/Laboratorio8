@@ -1,19 +1,21 @@
-# LABORATORIO # 05
+# LABORATORIO # 08
 
-TEMA: TEOREMA DE THÉVENIN
+TEMA: INDUCTOR Y CAPACITOR
 ## 1. OBJETIVOS
 
 **1,1.- GENERAL** 
 
-* Analizar experimentalmente el Teorema de Thévenin en un circuito resistivo.
+* Analizar experimentalmente un inductor y un capacitor
 
 **1,2.-ESPECÍFICOS**
 
-* Comprobar un circuito de corriente directa mediante la aplicación del Teorema de Thevenin .
+* Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
-* Verificar la manera de medir la resistencia y voltaje Thevenin de un circuito.
+* Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
 
-* Reducir y solucionar un circuito mediante el Teorema de Thévenin.
+* Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+* Familiarizarse con el uso de instrumentos de medida.
 
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
