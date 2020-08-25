@@ -76,15 +76,16 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
 
 **PREGUNTAS**
-**1.- Justifique los errores cometidos en las mediciones.
 
-**2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+**1.- Justifique los errores cometidos en las mediciones.**
 
-**3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+**2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
-**4.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+**3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
 
-**5.- ¿Qué son los valores eficaces de voltaje y corriente?
+**4.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
+
+**5.- ¿Qué son los valores eficaces de voltaje y corriente?**
 
 
 **CÁLCULO DEL ERROR**
@@ -97,24 +98,19 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 ## 10. CONCLUSIONES
 
-Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad del teorema de Thévenin el cual es de grna utilidad ya que nos ayuda a reducir un circuito complejo en uno mucho más sencillo para medir corriente o voltaje en algún elemento del circuitos. 
+Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad y el comportamiento de bobinas y capacitores dentro de un circuito de corriente AC Y DC con frecuencias variables. 
 
-También corroboramos que la resistencia e intensidad calculadas por Thevenin son muy similares a las calculadas mediante las leyes de Kirchhoff.
-
-Habiendo simulado y creado el circuito, podemos meditar que aunque hemos calculado los datos de una manera distinta, hemos podido comprobar que este método es valido y muy efectiva para los calculos buscados.
-
-Con esto se puede concluir, que los datos finales muestran una pequeña diferencia entre los valores medidos y calculados, y se podría dar esto de de la differencia por dos razones : al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habiamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos. 
+Se puede comprobar que los valores de los voltajes medidos por el multímetro y por el osciloscopio pretenecen a los valores del voltaje que pasa por la sección en donde se encuentran los capacitores o bobinas(multímetro) y el voltaje máximo que toma la función sinusoidal que viene a ser un valor eficaz denominado Vrms(osciloscopio).
 
 
 
 ## 11. RECOMENDACIONES
 
-Recomendamos que se debe asegurarse de tomar cálculos de una manera clara y ordenada,para asi no equivocarse en el hecho remplazar y tener como consecuencia un % de error excesivo. En este caso especificamente, se debe en tener en cuenta de desconectar las fuentes de poder paso segundo y tercer caso respectivamente.
+Se debe tomar a consideración el graficar correctamente el circuito y transcribir correctamente los valores de nuestros componentes, sino no podremos tabular de manera adecuada los valores solicitdos y tendremos errores en los calculos.
 
-Se debe tener en mente, de si se equivoca al traducir el circuito teorico al simulador esto podria causarle problemas en sus calculos, entonces recomendable siempre calcular tus datos manualmente y de ahi proceder a ser el circuito simulado.
+Es importante tener en cuenta la forma correcta de medición con el multímetro, para calcular el voltaje, el multímetro se lo conectará en paralelo al lugar de donde se quiere medir el mismo, para medir corrriente se debe colocar en serie, también se recomienda la correcta conexión del osciloscopio para tener una adecuada lectura y gráfica.
 
-Para terminar, sugerimos acordarse para calcular el voltaje de una region se le conecta al circuito directamente y para calcular intensidad se debe tratar al multimetro como un elemento del circuito y conectarle en serie.
-
+Se debe conocer sobre el tema a tratar antes de la prática del laboratorio pues sin los concetoos básicos no se llegará a comprender el laboratorio, lo que hace que no se llege a una comprobación correcta del tema a tratar.
 
 ## 12. CRONOGRAMA
 
