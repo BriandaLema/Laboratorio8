@@ -20,42 +20,23 @@ TEMA: INDUCTOR Y CAPACITOR
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
-Este proyecto consistió en la implementación de un circuito mixto lineal, en un programa online denominado Tinkercad con la finalidad de experimentarel análisis mediante el Teorema de Thévenin. Se crea el circuito utilizando resistencias en serie y paralelo conectadas a fuentes variables, la cuál es la característica principal para poder utilizar el Teorema de superposición como un método de solución factible.
+Este proyecto consistió en la implementación de un circuito eléctrico, en un programa online denominado Tinkercad para poder  denotar y experimentar el análisis del circuito en presencia de bobinas o capacitores. Se crea el circuito utilizando una resistencia y  capacitores o bobinas paralelo conectadas a una fuente de voltaje con frecuencia variable, la cuál es la característica principal para poder diferenciar los cambios que ocurre en la medición.
 
 
 ## 3. MARCO TEÓRICO 
 
-**TEOREMA DE THÉVENIN**
 
-El teorema de Thévenin determina que un circuito eléctrico con dos fuentes de alimentación es equivalente a un circuito formado por una fuente de tensión Vth (Voltaje de Thévenin) en serie con una resistencia Rth (Resistencia de Thévenin).
-  
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Thevenin.png)
-
-Para aplicar este método primero tenemos que tomar en cuenta que:
-* Las fuentes de voltaje se cierran.
-* Las fuentes de corriente se abren.
-* La resistencia a la cual vamos a calcular su voltaje y corriente, se abre.
-
-Para aplicar el teorema correctamente, se deben realizar estos pasos:
-
-1.	Al eliminar las fuentes de tensión o fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thévenin. Se procede a calcular el valor de la resistencia total existente entre los punto A y B donde se encuentre conectada la resistencia de carga.
-
-2.	Para el caso de hallar la tensión de Thévenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde ésta se encontraba.
-
-3.	Construimos el circuito equivalente utilizando la tensión de Thévenin y la resistencia de Thévenin en serie y procedemos a conectar la resistencia de carga entre los puntos de conexión abiertos.
-
-4.	Utilizando las reglas de circuitos en serie, se analiza la tensión y corriente de la resistencia de carga.
 
 ## 4. DIAGRAMAS
 
-Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en paralelo y corriente conectadas a dos fuentes de voltaje de corriente directa.
+Se simula el primer circuito eléctrico en Tinkercad, es un circuito con una resistencia conectada a dos capacitores en paralelo y con una fuente de voltaje con frecuencia variable.
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/C1.jpg)
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Circuitoo1.jpg)
+Se simula el segundo circuito eléctrico en Tinkercad, es un circuito con una resistencia conectada a dos bobinas en paralelo y con una fuente de voltaje con frecuencia variable.
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/C2.jpg)
 
-
-Comprobación del Teorema de Thévenin
-
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/circuito%202.jpg)
+Finalmente implementamos los dos circuitos en el simulador Multisim para hacer comprobaciones y mediciones completas. 
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/MULTI.jpg)
 
 
 
@@ -65,22 +46,21 @@ Comprobación del Teorema de Thévenin
 
 | CANTIDAD| ELEMENTO |
 | ------- | -------------|
-| 2       | Fuente de Voltaje C.D.  |
-| 2       | Multímetros digital  |
-| 1       | Resistor de 560 kΩ   |
-| 1       | Resistor de 4.7 kΩ   |
-| 1       | Resistor de 330 Ω  |
-| 1       | Resistor de 100 Ω|
-| 1       | Resistor de 1 kΩ|
-| 1       | Protoboard                    |
+| 2       | Generador de señales  |
+| 2       | Multímetro digital  |
+| 2       | Osciloscopio  |
+| 2       | Resistencia de  100Ω  |
+| 2       | Bobinas de 10μF |
+| 2       | Capacitores de 100 mH|
+| 2       | Protoboard           |
 
 ## 6. MAPA DE VARIABLES 
 
 Variables eléctricas: 
 
 * Voltaje
+
 * Corriente 
-* Resistores
 
 
 ## 7. EXPLICACIÓN CÓDIGO DE FUENTE
@@ -242,9 +222,9 @@ Para terminar, sugerimos acordarse para calcular el voltaje de una region se le 
 
 ## 12. CRONOGRAMA
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/CRONOGRAMA%205.png)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/L8.png)
 
-https://trello.com/b/UU1g7qMS/cronograma
+https://trello.com/b/mNVZSk1J/laboratorio-8
 
 ## 13. BIBLIOGRAFÍA
 
