@@ -213,12 +213,12 @@ calculadas en el trabajo preparatorio.
 
 Voltajes y corrientes calculados 
 
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%202.png)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%205.png)
 
 * Utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X = Vo/I
 en cada una de las frecuencias y también para calcular los valores de Leq y Ceq según sea el caso.
 
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%203.png)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%202.png)
 
 **Ceq = 20µF**
 
@@ -227,16 +227,16 @@ en cada una de las frecuencias y también para calcular los valores de Leq y Ceq
 * Elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multímetro y las
 calculadas en el trabajo preparatorio. 
 
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%204.png)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%203.png)
 
 Voltajes y corrientes calculados 
 
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%205.png)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%206.png)
 
 * Utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X = Vo/I
 en cada una de las frecuencias y también para calcular los valores de Leq y Ceq según sea el caso.
 
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%206.png)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Tabla%204.png)
 
 **Leq = 0.05 H**
 
