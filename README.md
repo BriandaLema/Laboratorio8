@@ -105,11 +105,11 @@ Para la práctica del presente informe hemos utilizado bobinas o inductores con 
 Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de inductor equivalente o inductor total. Estos valores se pueden calcular con las siguientes fórmulas:
 * SERIE 
 ![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20serie%20.jpg)
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20serie%201.jpg)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20serie1.jpg)
 
 * PARALELO
 ![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20paralelo.png)
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20paralelo%201.jpg)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20paralelo1.jpg)
 
 
 
