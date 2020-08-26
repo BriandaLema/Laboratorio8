@@ -202,9 +202,49 @@ Para la frecuencia 0 seria igual que el caso de que son iguales, sin embargo apa
 
 Estos valores permiten la facilidad de hacer los calculos manuales. Esto simplemente son el modulo de la formula presentada la cual es el valor pico sobre raiz de 2. 
 
+### **ANÁLISIS DE RESULTADOS**
+
+**CIRCUITO CON DOS CAPACITORES EN PARALELO**
+
+* Elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multímetro y las
+calculadas en el trabajo preparatorio. 
+
+Voltajes y corrientes calculados 
+
+* Utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X = Vo/I
+en cada una de las frecuencias y también para calcular los valores de Leq y Ceq según sea el caso.
+
+**Ceq = 20µF**
+
+**CIRCUITO CON DOS INDUCTORES EN PARALELO**
+
+* Elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multímetro y las
+calculadas en el trabajo preparatorio. 
+
+Voltajes y corrientes calculados 
+
+* Utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X = Vo/I
+en cada una de las frecuencias y también para calcular los valores de Leq y Ceq según sea el caso.
+
+**Leq = 0.05 H**
 
 **CÁLCULO DEL ERROR**
 
+* CÁLCULO DEL ERROR DEL VOLTAJE EN EL CIRCUITO CON 2 CAPACITORES EN PARALELO
+
+∑(Voltaje calculado)= (2.0544 + 4.2475 + 2.1235 + 2.1235 + 3.6979) V
+
+∑(Voltaje calculado)= 14.2468 V
+
+∑(Voltaje medido)= (2.05 + 4.25 + 2.12 + 2.12 + 3.70) V
+
+∑(Voltaje medido)= 14.24 V
+
+%error=((Valor teórico-Valor medido)/Valor teórico)* 100
+
+%error=((14.2468 V - 14.24 V)/ 14.2468 V)* 100
+
+%error= 0.048 %
 
 
 ## 9.APORTACIONES
