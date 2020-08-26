@@ -242,7 +242,7 @@ https://trello.com/b/mNVZSk1J/laboratorio-8
 
 
 ## 14.- ANEXOS
-https://github.com/BriandaLema/Laboratorio8/blob/master/Anexos/ANEXOS_8.pdf
+https://github.com/BriandaLema/Laboratorio8/blob/master/ANEXOS_8.pdf
 
 
 
