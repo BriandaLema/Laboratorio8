@@ -244,20 +244,67 @@ en cada una de las frecuencias y también para calcular los valores de Leq y Ceq
 
 * CÁLCULO DEL ERROR DEL VOLTAJE EN EL CIRCUITO CON 2 CAPACITORES EN PARALELO
 
-∑(Voltaje calculado)= (2.0544 + 4.2475 + 2.1235 + 2.1235 + 3.6979) V
+Promedio (Voltaje calculado)= {(7.015 + 5.984 + 4.377 + 1.111 + 0.561) V}/ 5
 
-∑(Voltaje calculado)= 14.2468 V
+Promedio (Voltaje calculado)=  3.8096 V
 
-∑(Voltaje medido)= (2.05 + 4.25 + 2.12 + 2.12 + 3.70) V
+Promedio (Voltaje medido)= {(7.014 + 5.987 + 4.403 + 1.111 + 0.5607) V}/ 5
 
-∑(Voltaje medido)= 14.24 V
+Promedio (Voltaje medido)= 3.8151 V
 
-%error=((Valor teórico-Valor medido)/Valor teórico)* 100
+%error=((|Valor teórico-Valor medido|)/Valor teórico)* 100
 
-%error=((14.2468 V - 14.24 V)/ 14.2468 V)* 100
+%error=((|3.8096 V - 3.8151 V|)/ 3.8096 V)* 100
 
-%error= 0.048 %
+%error= 0.14 %
 
+* CÁLCULO DEL ERROR DE LA CORRIENTE EN EL CIRCUITO CON 2 CAPACITORES EN PARALELO
+
+Promedio (Corriente calculado)= {(8.816 + 37.6 + 55 + 69.8 + 70.5) mA}/ 5
+
+Promedio (Corriente calculado)=  48.3432 mA
+
+Promedio (Corriente medido)= {(8.929 + 37.619 + 55.33 + 69.832 + 70.487) mA}/ 5
+
+Promedio (Corriente medido)= 48.4394 mA
+
+%error=((|Valor teórico-Valor medido|)/Valor teórico)* 100
+
+%error=((|48.3432 mA - 48.4394 mA|)/ 48.3432 mA)* 100
+
+%error= 0.19 %
+
+* CÁLCULO DEL ERROR DEL VOLTAJE EN EL CIRCUITO CON 2 INDUCTORES EN PARALELO
+
+Promedio (Voltaje calculado)= {(0.222 + 1.096 + 2.12 + 5.96 + 6.72) V}/ 5
+
+Promedio (Voltaje calculado)=  3.2236 V
+
+Promedio (Voltaje medido)= {(0.2219 + 1.097 + 2.119 + 5.965 + 6.738) V}/ 5
+
+Promedio (Voltaje medido)= 3.2281 V
+
+%error=((|Valor teórico-Valor medido|)/Valor teórico)* 100
+
+%error=((|3.2236 V - 3.2281 V|)/ 3.2236 V)* 100
+
+%error= 0.13 %
+
+* CÁLCULO DEL ERROR DE LA CORRIENTE EN EL CIRCUITO CON 2 INDUCTORES EN PARALELO
+
+Promedio (Corriente calculado)= {(70.7 + 70.6 + 69.8 + 67.5 + 37.97 + 21.4 ) mA}/ 6
+
+Promedio (Corriente calculado)=  56.3283 mA
+
+Promedio (Corriente medido)= {(70.7 + 70.676 + 69.855 + 67.46 + 37.972 + 21.441 ) mA}/ 6
+
+Promedio (Corriente medido)= 56.3506 mA
+
+%error=((|Valor teórico-Valor medido|)/Valor teórico)* 100
+
+%error=((|56.3283 mA - 56.3506 mA|)/ 56.3283 mA)* 100
+
+%error= 0.03 %
 
 ## 9.APORTACIONES
 
