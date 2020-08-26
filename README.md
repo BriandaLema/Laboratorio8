@@ -184,17 +184,23 @@ Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dis
 
 **1.- Justifique los errores cometidos en las mediciones.**
 
+Un error que surgio en las mediciones era que se intento medir todo al mismo tiempo. Al hacer esto nuestra intensidad cuando la frecuencia era 10 salia 0 pero esto no era posible. Lo que pudo haber pasado es que el multimetro y el osciloscopio podrian haber alterado al sistema con sus pequenas resistencias, que podrian haber sumado causando un corto circuito.
 
 **2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
+
 En una corriente continua estos elementos son inactivos debido a que estos dependen de una frecuencia para formar parte del circuito. Cuando esto sucede, estos elementos formarian un circuito abierto permitiendo el flujo total de la intensidad y no dando nada de resistencia a este.
 
 **3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
+
 En un sistema con corriente alterna estos elementos ahora son activos ya que la frecuencia es distinta a 0. Tambien se da notar que cuando la frecuencia tiende a 0, capacitores tienden al inifinito causando que estas crean un corto circuito. Si la frecuencia tiende al infinito los inductores causarian un corto circuito bajo estas condiciones.
 
 **4.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
+Para la frecuencia 0 seria igual que el caso de que son iguales, sin embargo apartir de eso esto podria incrementar la resistencia o reducirla alterando la intensidad.Incluso podria causar que el corto circuito o circuito abierto del systema sean mas faciles de obtener o en otras palabras necesitar de una frecuencia menor.
 
 **5.- ¿Qué son los valores eficaces de voltaje y corriente?**
+
+Estos valores permiten la facilidad de hacer los calculos manuales. Esto simplemente son el modulo de la formula presentada la cual es el valor pico sobre raiz de 2. 
 
 
 **CÁLCULO DEL ERROR**
