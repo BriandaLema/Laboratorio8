@@ -29,9 +29,13 @@ Este proyecto consistió en la implementación de un circuito eléctrico, en un 
 
 Un capacitor o un condensador es un componente pasivo capaz de almacenar energía a través de campos eléctricos Este se clasifica dentro de los componentes pasivos ya que no corta el flujo eléctrico. El capacitor se encuentra en unidad de Faradios (F).
 
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitores.jpg)
+
 **PARTES**
 
 Consta de tres partes esenciales:
+
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Partes%20de%20un%20capacitor.jpg)
 
 **• Estructura o carcasa de plástico:** Cubre las partes internas del capacitor.
 
@@ -46,30 +50,39 @@ Inicialmente cada una de las placas internas tiene el mismo numero de electrones
 **TIPOS**
 
 * Electrolíticos
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%201.jpg)
 
 * Cerámicos
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%202.jpg)
 
 * De película
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%203.jpg)
 
 * De mica
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%204.jpg)
 
 * De doble capa eléctrica o super capacitores
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%205.jpg)
 
 * Variables
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%206.jpg)
 
 Para la práctica del presente informe hemos utilizado capacitores cerámicos, los cuales no tiene polaridad y tienen un código impreso en una de sus caras el cual siempre viene codificado en pico faradios. Sin embargo, los capacitores son bastante sensibles a los cambios de voltaje y temperatura.
 
 **CAPACITORES EN SERIE Y PARALELO**
 
 Los capacitores se pueden agrupar en serie o en paralelo para obtener un valor de capacitor equivalente o capacitor total. Estos valores se pueden calcular con las siguientes fórmulas:
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%20en%20serie%20y%20paralelo.jpg)
 
 ### **INDUCTOR**
 
 Un inductor es un componente pasivo hecho de un alambre aislado que almacena energía en forma de campo magnético, debido al fenómeno de la autoinducción, el sentido del flujo del campo magnético se lo puede establecer con la ley de la mano derecha. El inductor se encuentran en valores de Henrios (H).
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor.jpg)
 
 **PARTES**
 
 El inductor consta básicamente de las siguientes partes: 
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Partes%20del%20inductor.png)
 
 **FUNCIONAMIENTO**
 
@@ -78,19 +91,25 @@ Un inductor está constituido por una bobina de material conductor,  normalmente
 **TIPOS**
 
 * Bobinas con núcleos de aire
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Partes%20de%20un%20capacitor.jpg)
 
 * Bobinas de núcleo de hierro
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%202.png)
 
 * Bobinas con núcleo de ferrita
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%203.png)
 
 Para la práctica del presente informe hemos utilizado bobinas o inductores con núcleos de aire, los cuales tienen una baja inductancia y generalmente trabajan con señales eléctricas de alta frecuencia.
 
 **INDUCTORES EN SERIE Y PARALELO**
 Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de inductor equivalente o inductor total. Estos valores se pueden calcular con las siguientes fórmulas:
+* SERIE 
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20serie%20.jpg)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20serie%201.jpg)
 
-
-
-
+* PARALELO
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20paralelo.png)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%20en%20paralelo%201.jpg)
 
 
 
