@@ -114,6 +114,7 @@ Un inductor está constituido por una bobina de material conductor,  normalmente
 Para la práctica del presente informe hemos utilizado bobinas o inductores con núcleos de aire, los cuales tienen una baja inductancia y generalmente trabajan con señales eléctricas de alta frecuencia.
 
 **INDUCTORES EN SERIE Y PARALELO**
+
 Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de inductor equivalente o inductor total. Estos valores se pueden calcular con las siguientes fórmulas:
 
 * SERIE 
@@ -214,7 +215,7 @@ Se debe tomar a consideración el graficar correctamente el circuito y transcrib
 
 Es importante tener en cuenta la forma correcta de medición con el multímetro, para calcular el voltaje, el multímetro se lo conectará en paralelo al lugar de donde se quiere medir el mismo, para medir corrriente se debe colocar en serie, también se recomienda la correcta conexión del osciloscopio para tener una adecuada lectura y gráfica.
 
-Se debe conocer sobre el tema a tratar antes de la prática del laboratorio pues sin los concetoos básicos no se llegará a comprender el laboratorio, lo que hace que no se llege a una comprobación correcta del tema a tratar.
+Se debe conocer sobre el tema a tratar antes de la prática del laboratorio pues sin los conceptos básicos no se llegará a comprender el laboratorio, lo que hace que no se llege a una comprobación correcta del tema a tratar.
 
 ## 12. CRONOGRAMA
 
