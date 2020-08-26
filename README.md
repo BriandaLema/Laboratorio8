@@ -235,9 +235,15 @@ https://trello.com/b/mNVZSk1J/laboratorio-8
 
 ## 13. BIBLIOGRAFÍA
 
-* carakenio73. (10 de Noviembre de 2019). dademuchconnection. Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+* Mecafenix, I. (20 de Febrero de 2019). Ingeniería Mecafenix. Obtenido de https://www.ingmecafenix.com/electronica/el-capacitor/
 
-* XNOMIND. (07 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/#Pasos_para_aplicar_el_teorema_de_Thevenin
+* Eléctricas, P. (09 de Febrero de 2018). Plantas eléctricas. Obtenido de https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+
+* Millan, A. (s.f.). Academia . Obtenido de https://www.academia.edu/33282245/Que_es_un_inductor_o_bobina_Como_funciona
+
+* Online, C. T. (17 de Abril de 2020). Capacitación Técnica Online. Obtenido de https://capacitaciontecnica.com.ar/2020/04/17/que-son-los-capacitores/
+
+
 
 
 
