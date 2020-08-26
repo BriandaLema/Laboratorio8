@@ -25,13 +25,13 @@ Este proyecto consistió en la implementación de un circuito eléctrico, en un 
 
 ## 3. MARCO TEÓRICO 
 
-## **•CAPACITOR** 
+### **• CAPACITOR** 
 
 Un capacitor o un condensador es un componente pasivo capaz de almacenar energía a través de campos eléctricos Este se clasifica dentro de los componentes pasivos ya que no corta el flujo eléctrico. El capacitor se encuentra en unidad de Faradios (F).
 
 ![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitores.jpg)
 
-### **PARTES**
+**PARTES**
 
 Consta de tres partes esenciales:
 
@@ -43,11 +43,11 @@ Consta de tres partes esenciales:
 
 **•	Placas metálicas:** Almacenan las cargas eléctricas.
 
-### **FUNCIONAMIENTO**
+**FUNCIONAMIENTO**
 
 Inicialmente cada una de las placas internas tiene el mismo numero de electrones, y cuando conectamos una fuente de voltaje una de las placas pierde electrones y la otra placa los gana. Cuando el capacitor alcanza el mismo voltaje que la fuente de alimentación el movimiento de electrones se detiene.
 
-### **TIPOS**
+**TIPOS**
 
 * Electrolíticos
 
@@ -75,29 +75,29 @@ Inicialmente cada una de las placas internas tiene el mismo numero de electrones
 
 Para la práctica del presente informe hemos utilizado capacitores cerámicos, los cuales no tiene polaridad y tienen un código impreso en una de sus caras el cual siempre viene codificado en pico faradios. Sin embargo, los capacitores son bastante sensibles a los cambios de voltaje y temperatura.
 
-### **CAPACITORES EN SERIE Y PARALELO**
+**CAPACITORES EN SERIE Y PARALELO**
 
 Los capacitores se pueden agrupar en serie o en paralelo para obtener un valor de capacitor equivalente o capacitor total. Estos valores se pueden calcular con las siguientes fórmulas:
 
 ![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Capacitor%20en%20serie%20y%20paralelo.jpg)
 
-## **•INDUCTOR**
+### **• INDUCTOR**
 
 Un inductor es un componente pasivo hecho de un alambre aislado que almacena energía en forma de campo magnético, debido al fenómeno de la autoinducción, el sentido del flujo del campo magnético se lo puede establecer con la ley de la mano derecha. El inductor se encuentran en valores de Henrios (H).
 
 ![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor.jpg)
 
-### **PARTES**
+**PARTES**
 
 El inductor consta básicamente de las siguientes partes: 
 
 ![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Partes%20del%20inductor.png)
 
-### **FUNCIONAMIENTO**
+**FUNCIONAMIENTO**
 
 Un inductor está constituido por una bobina de material conductor,  normalmente alambre o hilo de cobre esmaltado, el inductor almacena energía cuando aumenta la intensidad de corriente, devolviéndola cuando ésta disminuye. 
 
-### **TIPOS**
+**TIPOS**
 
 * Bobinas con núcleos de aire
 
@@ -113,7 +113,7 @@ Un inductor está constituido por una bobina de material conductor,  normalmente
 
 Para la práctica del presente informe hemos utilizado bobinas o inductores con núcleos de aire, los cuales tienen una baja inductancia y generalmente trabajan con señales eléctricas de alta frecuencia.
 
-### **INDUCTORES EN SERIE Y PARALELO**
+**INDUCTORES EN SERIE Y PARALELO**
 Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de inductor equivalente o inductor total. Estos valores se pueden calcular con las siguientes fórmulas:
 
 * SERIE 
