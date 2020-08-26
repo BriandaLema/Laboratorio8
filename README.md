@@ -91,7 +91,7 @@ Un inductor está constituido por una bobina de material conductor,  normalmente
 **TIPOS**
 
 * Bobinas con núcleos de aire
-![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Partes%20de%20un%20capacitor.jpg)
+![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%201.png)
 
 * Bobinas de núcleo de hierro
 ![](https://github.com/BriandaLema/Laboratorio8/blob/master/img/Inductor%202.png)
